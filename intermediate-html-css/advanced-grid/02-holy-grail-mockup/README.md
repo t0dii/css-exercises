@@ -27,8 +27,8 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 - The sidebar element has a gap of 50px -done
 - The text elements in the sidebar are centered with grid - done?
 - 
-- The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties 
-- The article columns should have a minimum value of 250px and a maximum of 1fr unit
+- The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties - done 
+- The article columns should have a minimum value of 250px and a maximum of 1fr unit - done 
 - 
 - The article element has a gap of 15px - done
 - The card elements inside the article container have a height of 200px - done 
