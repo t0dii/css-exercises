@@ -5,7 +5,6 @@ html {
 }
 
 .container {
-  text-align: center;
   height: 100%;
   padding: 16px;
   box-sizing: border-box;
@@ -26,8 +25,9 @@ html {
 }
 
 .sidebar {
-  background-color: #005B94;
-  grid-row: 2 / 4;
+    background-color: #005B94;
+    grid-row: 2 / 4;
+    text-align: center;
 }
 
 .nav {
